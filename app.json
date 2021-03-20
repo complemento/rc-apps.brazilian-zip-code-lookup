@@ -1,0 +1,16 @@
+{
+    "id": "0e7a39ad-de4b-440b-b8b9-b627d33276c3",
+    "version": "1.0.0",
+    "requiredApiVersion": "^1.19.0",
+    "iconFile": "icon.png",
+    "author": {
+        "name": "Complemento Consultoria e Tecnologia LTDA",
+        "homepage": "https://complemento.net.br",
+        "support": "https://github.com/complemento/rc-apps.brazilian-zip-code-lookup"
+    },
+    "name": "Brazilian Zip Code Lookup",
+    "nameSlug": "brazilian-zip-code-lookup",
+    "classFile": "BrazilianZipCodeLookupApp.ts",
+    "description": "Brazilian zip code (CEP) information retrival (such as street and city) using https://viacep.com.br/ API. Just type \"/cep 01452000\" or \"/cep 01452-000\"",
+    "implements": []
+}

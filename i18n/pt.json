@@ -1,0 +1,4 @@
+{
+    "cep-command-example": "[0000000 ou 00000-000]",
+    "cep-command-description": "Obtém informações sobre o CEP"
+}
