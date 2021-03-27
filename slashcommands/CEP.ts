@@ -38,7 +38,7 @@ export class CEPCommand implements ISlashCommand {
 
                 let address = JSON.parse(response.content+'');
 
-                let textAddress = '';
+                let textAddress = 'CEP ' + args[0] + '\n';
 
                 textAddress += address.logradouro ? address.logradouro+'\n':'';
                 textAddress += address.bairro ? address.bairro+'\n':'';
